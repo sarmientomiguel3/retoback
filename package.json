@@ -1,0 +1,9 @@
+{
+  "name": "retoback",
+  "version": "1.0.0",
+  "description": "api retoback",
+  "main": "index.js",
+  "repository": "https://github.com/sarmientomiguel3/retoback.git",
+  "author": "MiguelSarmiento <sarmientomiguel3@gmail.com>",
+  "license": "MIT"
+}
